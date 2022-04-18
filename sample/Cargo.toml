@@ -18,4 +18,9 @@ path = "src/arr_sample.rs"
 name = "user_define"
 path = "src/user_define_sample.rs"
 
+[[bin]]
+name = "seigyo"
+path = "src/seigyo.rs"
+
 [dependencies]
+rand = "0.3.0"
